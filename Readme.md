@@ -1,4 +1,5 @@
 # 🏦 DEX-Sim — A Simple Decentralized Exchange Simulation Platform
+<img width="1370" height="710" alt="758fc1f6-b523-4cae-8687-5d4875c64a68" src="https://github.com/user-attachments/assets/f36b1171-c56b-4508-91ce-a6dd5db2313b" />
 
 ## 📌 Overview
 
@@ -82,6 +83,7 @@ Supported commands include:
 * `GUIDE` → Show the help guide
 
 ---
+<img width="751" height="815" alt="26781839-6bf5-4259-99dd-6636b3f6d62d" src="https://github.com/user-attachments/assets/cfd68cea-532a-46ba-94d4-114adcfd3fa2" />
 
 ## 📂 Project Structure
 
