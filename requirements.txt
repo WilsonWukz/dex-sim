@@ -1,0 +1,8 @@
+# Core dependencies
+#decimal
+
+# Optional: for better CLI experience (you can remove if not used)
+rich
+
+# Optional: if you plan to use logging or config parsing
+python-dotenv
