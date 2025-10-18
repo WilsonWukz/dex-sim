@@ -1,0 +1,69 @@
+{
+  "DEXs": {
+    "Uniswap": {
+      "pools": [
+        {
+          "tokenA": "ETH",
+          "tokenB": "USDT",
+          "reserve_a": "10",
+          "reserve_b": "20000",
+          "fee": "0.003",
+          "total_lp": "447.2135954999579392818347337",
+          "lp_balances": {}
+        }
+      ]
+    },
+    "d1": {
+      "pools": [
+        {
+          "tokenA": "BTC",
+          "tokenB": "ETH",
+          "reserve_a": "19.970",
+          "reserve_b": "500.7511266900350525788683025",
+          "fee": "0.003",
+          "total_lp": "100",
+          "lp_balances": {}
+        }
+      ]
+    }
+  },
+  "Wallets": {
+    "Alice": {
+      "owner": "Alice",
+      "balances": {
+        "ETH": "10",
+        "USDT": "20000"
+      },
+      "lp_tokens": {},
+      "tr_history": []
+    },
+    "Wilson": {
+      "owner": "Wilson",
+      "balances": {
+        "BTC": "986",
+        "USDT": "5000000",
+        "ETH": "7495.248873309964947421131698"
+      },
+      "lp_tokens": {},
+      "tr_history": [
+        {
+          "type": "DEPOSIT",
+          "symbol": "USDT",
+          "amount": "5000000"
+        },
+        {
+          "type": "DEPOSIT",
+          "symbol": "ETH",
+          "amount": "6996"
+        },
+        {
+          "type": "SWAP",
+          "From": "BTC",
+          "Amount_in": "10",
+          "To": "ETH",
+          "Amount_out": "499.2488733099649474211316975"
+        }
+      ]
+    }
+  }
+}
